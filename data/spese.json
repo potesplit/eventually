@@ -11,5 +11,18 @@
       "Lorenzo"
     ],
     "gruppoId": "gmw3pahgfe5si1n"
+  },
+  {
+    "nome": "Andrea",
+    "descrizione": "Regalo flavio 2025",
+    "importo": 25,
+    "partecipanti": [
+      "Andrea",
+      "Carlo",
+      "Fabrizio",
+      "Filippo",
+      "Lorenzo"
+    ],
+    "gruppoId": "gmw3pcda8mv1qg8"
   }
 ]
