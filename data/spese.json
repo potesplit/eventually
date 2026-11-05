@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "nome": "Fabrizio",
+    "descrizione": "Regalo flavio 2026",
+    "importo": 60,
+    "partecipanti": [
+      "Andrea",
+      "Carlo",
+      "Fabrizio",
+      "Filippo",
+      "Lorenzo"
+    ],
+    "gruppoId": "gmw3pahgfe5si1n"
+  }
+]
